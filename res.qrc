@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>marcaX.png</file>
+        <file>marcaO.png</file>
+        <file>loading.gif</file>
+    </qresource>
+    <qresource prefix="/tabuleiro">
+        <file>b.jpg</file>
+        <file>tabela.jpg</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>press.wav</file>
+    </qresource>
+</RCC>
